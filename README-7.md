@@ -1,14 +1,14 @@
 # Image Classification using Convolutional Neural Networks (CNN)
 
-**Author:** Sawanpreet Singh Badyal  
+**Author:** Deeksha Sharma 
 
-**Registration Number:** 23BAI10793 
+**Registration Number:** 23BCG10065
 
-**Application Number:** IN26010801
+**Application Number:** IN26011323
 
 **Batch Number:** 1A
 
-**Email ID:** sawanpreet.23bai10793@vitbhopal.ac.in
+**Email ID:** dishasha2004@gmail.com
 
 ## Objective
 The objective of this project is to develop a Convolutional Neural Network (CNN) using TensorFlow/Keras to classify pet images into Cats and Dogs to support automated animal identification[cite: 2].
